@@ -3,7 +3,7 @@ This package includes the implementation of [1]. We propose a new point pair sim
 
 We build our IGICP system based on fast_gicp and introduce several changes as introduced in [1]. We appreciate the efforts made by fast_gicp providers.
 
-[1] Li He, Wen Li, Yisheng Guan, and Hong Zhang, IGICP: Intensity and Geometry Enhanced LiDAR Odometry, IEEE Transactions on Intelligent Vehicles, to appear.
+[1] Li He, Wen Li, Yisheng Guan, and Hong Zhang. **IGICP: Intensity and Geometry Enhanced LiDAR Odometry**. *IEEE Transactions on Intelligent Vehicles*, to appear.
 
 hel@sustech.edu.cn
 
