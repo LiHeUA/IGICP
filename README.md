@@ -5,9 +5,9 @@ We built our IGICP system based on fast_gicp and employed several changes as int
 
 [1] Li He, Wen Li, Yisheng Guan, and Hong Zhang. **IGICP: Intensity and Geometry Enhanced LiDAR Odometry**. *IEEE Transactions on Intelligent Vehicles*, to appear.
 
-hel@sustech.edu.cn
+Li He: hel@sustech.edu.cn
 
-2112101119@mail2.gdut.edu.cn
+Wen Li: 2112101119@mail2.gdut.edu.cn
 
 Nov. 22, 2023
 
