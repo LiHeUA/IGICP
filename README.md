@@ -1,7 +1,7 @@
 # IGICP
 This package includes the implementation of [1]. We propose a new point pair similarity method by combing the normal vector, the smallest eigenvalue of the spatial covariance matrix, and the KL divergence of local intensity values. In the pose optimization step, we use both the proposed point pair similarity and planarity as the weight.
 
-We build our IGICP system based on fast_gicp and introduce several changes as introduced in [1]. We appreciate the efforts made by fast_gicp providers.
+We built our IGICP system based on fast_gicp and employed several changes as introduced in [1]. We appreciate the efforts made by fast_gicp providers.
 
 [1] Li He, Wen Li, Yisheng Guan, and Hong Zhang. **IGICP: Intensity and Geometry Enhanced LiDAR Odometry**. *IEEE Transactions on Intelligent Vehicles*, to appear.
 
